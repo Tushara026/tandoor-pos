@@ -1,0 +1,9 @@
+{
+  "name": "Tandoor & Co. Restaurant POS",
+  "short_name": "Tandoor POS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#211A14",
+  "theme_color": "#211A14",
+  "description": "Mobile restaurant billing and POS app"
+}
